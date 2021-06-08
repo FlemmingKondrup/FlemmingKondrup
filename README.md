@@ -1,6 +1,6 @@
 # Hi. Welcome to my GitHub!
 
-I’m Flemming Kondrup, a final year Honours Student at McGill University, Canada.
+## I’m Flemming Kondrup, a final year Honours Student at McGill University, Canada.
 
 I am awed by the difference computer science can make in the field of medicine and want to push the boundaries of this combination.
 
